@@ -6,6 +6,8 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![CI](https://github.com/maelstrom-software/maelstrom/actions/workflows/ci.yml/badge.svg)](https://github.com/maelstrom-software/maelstrom/actions/workflows/ci.yml)
 
+Hmmm...
+
 This is a demonstration of Graphite!
 
 Maelstrom is a Rust test runner, built on top of a general-purpose
