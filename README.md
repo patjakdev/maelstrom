@@ -6,6 +6,8 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![CI](https://github.com/maelstrom-software/maelstrom/actions/workflows/ci.yml/badge.svg)](https://github.com/maelstrom-software/maelstrom/actions/workflows/ci.yml)
 
+This is a demonstration of Graphite!
+
 Maelstrom is a Rust test runner, built on top of a general-purpose
 clustered job runner. Maelstrom packages your Rust tests into hermetic
 micro-containers, then distributes them to be run on an arbitrarily large
