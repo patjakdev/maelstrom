@@ -8,7 +8,8 @@
 
 Hmmm...
 
-This is a demonstration of Graphite!
+This is a demonstration of Graphite! This is the next patch.
+
 
 Maelstrom is a Rust test runner, built on top of a general-purpose
 clustered job runner. Maelstrom packages your Rust tests into hermetic
