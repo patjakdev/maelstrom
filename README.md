@@ -8,6 +8,9 @@
 
 This is a demonstration of Graphite!
 
+Conflict!
+This is another change
+
 Maelstrom is a Rust test runner, built on top of a general-purpose
 clustered job runner. Maelstrom packages your Rust tests into hermetic
 micro-containers, then distributes them to be run on an arbitrarily large
